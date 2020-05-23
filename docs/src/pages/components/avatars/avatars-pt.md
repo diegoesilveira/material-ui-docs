@@ -37,7 +37,7 @@ Se você precisa de avatares com cantos quadrados ou arredondados, use a proprie
 
 {{"demo": "pages/components/avatars/VariantAvatars.js"}}
 
-## Fallbacks
+## Contingências (Fallbacks)
 
 Se houver um erro ao carregar a imagem do avatar, o componente escolhe uma alternativa na seguinte ordem:
 
