@@ -5,7 +5,7 @@ components: Avatar, AvatarGroup, Badge
 
 # Avatar
 
-<p class="description">Os avatares são encontrado ao longo do material design, com usos em tudo, desde tabelas até menus de diálogo.</p>
+<p class="description">Os avatares são encontrados ao longo do material design, com usos em tudo, desde tabelas até menus de diálogo.</p>
 
 ## Avatares com imagens
 
