@@ -1,16 +1,16 @@
-# 自定义组件
+# 自定义的组件
 
 <p class="description">您可以轻松地自定义一个 Material-UI 组件的外观。</p>
 
-有多种方法可以实现在不同的上下文环境中使用组件。 从最狭窄的用例到最广泛的用例，这些是：
+由于组件可以在不同的上下文环境中使用，因此有几种方法。 从最狭窄到最广泛的用例，这些是：
 
 1. [一次性使用的特定变体](#1-specific-variation-for-a-one-time-situation)
 2. [一次性使用的动态变体](#2-dynamic-variation-for-a-one-time-situation)
-3. [在不同环境中使用组件的](#3-specific-variation-of-a-component) 特定变体
-4. [材料设计变体](#4-material-design-variations) 例如按钮组件
+3. 在不同环境中重复使用的[特定组件的变体](#3-specific-variation-of-a-component) 
+4. [Material Design 的变体](#4-material-design-variations)，例如按钮组件
 5. [全局化主题变体](#5-global-theme-variation)
 
-## 1。 一次性使用的特定变体
+## 1、 一次性使用的特定变体
 
 您可能需要为特定实现更改组件的样式，您可以使用以下解决方案：
 
