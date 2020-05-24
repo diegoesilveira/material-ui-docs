@@ -49,17 +49,17 @@ Create React App 是一个很棒的学习 React 的项目。 请看一下这些[
     
   - 使用 Create React App 创建
   - 特征是一个登录页面，博客，一个登录和注册的区块，以及一个管理员控制界面
-  - Fully routed using react-router
-  - Lazy loads components to boost performance
-  - Components for statistics, text with emoji support, image upload and much more...
+  - 完全使用 react-router 来路由
+  - 延迟加载组件以提高性能
+  - 一些显示统计数据、带有表情支持的文本、图片上传和更多内容的组件。。。
 
 ### 付费的资源
 
 - [ScaffoldHub](https://scaffoldhub.io/?partner=1):
     
-  - Build your complete application with this online tool
-  - Choose your framework and library (React & Material-UI!)
-  - Choose your database (SQL, MongoDB or Firestore)
-  - Model your database and application with the intuitive GUI
-  - Generate your application, including a complete scaffolded backend
-  - Preview your application online, and download the generated code
+  - 使用此在线工具构建您的完整应用程序
+  - 选择您的框架和库（React & Material UI!）
+  - 选择您的数据库（SQL，MongoDB 或 Firestree）
+  - 用直观的 GUI 模拟你的数据库和应用程序
+  - 生成您的应用程序，包括一个完整的 scaffolded 后台
+  - 在线预览您的应用程序，并下载生成的代码
