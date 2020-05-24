@@ -31,7 +31,7 @@ Se um callback `onClose` é fornecido e a propriedade `action` não é definida,
 
 ### Transição
 
-Você pode utilizar um [transition component](/components/transitions/) como `Collapse` para realizar uma transição na aparência do alerta.
+Você pode utilizar um [componente de transição](/components/transitions/) como um `Collapse` para realizar uma transição na exibição do alerta.
 
 {{"demo": "pages/components/alert/TransitionAlerts.js"}}
 
@@ -63,7 +63,7 @@ Você pode usar o componente SnackBar para [exibir um aviso na tela](/components
 
 ## Cor
 
-A propriedade `color` substituirá a cor padrão para a gravidade especificada.
+A propriedade `color` irá sobrescrever a cor padrão para a gravidade especificada.
 
 {{"demo": "pages/components/alert/ColorAlerts.js"}}
 
