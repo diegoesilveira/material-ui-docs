@@ -5,33 +5,33 @@ components: Breadcrumbs, Link, Typography
 
 # Navegação estrutural
 
-<p class="description">Navegação estrutural permite aos usuários fazer seleções em uma gama de valores.</p>
+<p class="description">Navegação estrutural permite aos usuários fazer seleções em um intervalo de caminhos.</p>
 
 ## Navegação estrutural simples
 
 {{"demo": "pages/components/breadcrumbs/SimpleBreadcrumbs.js"}}
 
-## Último breadcrumb ativo
+## Último caminho ativo
 
-Mantenha o último caminho de navegação interativo.
+Mantendo o último caminho de navegação interativo.
 
 {{"demo": "pages/components/breadcrumbs/ActiveLastBreadcrumb.js"}}
 
-## Separador personalizado
+## Separador customizado
 
 No exemplo a seguir, nós usamos duas strings separadoras, e um ícone SVG.
 
 {{"demo": "pages/components/breadcrumbs/CustomSeparator.js"}}
 
-## Breadcrumbs com ícones
+## Navegação estrutural com ícones
 
 {{"demo": "pages/components/breadcrumbs/IconBreadcrumbs.js"}}
 
-## Breadcrumbs colapsado
+## Navegação estrutural retraída
 
 {{"demo": "pages/components/breadcrumbs/CollapsedBreadcrumbs.js"}}
 
-## Breadcrumbs personalizado
+## Navegação estrutural customizada
 
 Aqui está um exemplo de customização do componente. Você pode aprender mais sobre isso na [página de documentação de sobrescritas](/customization/components/).
 
