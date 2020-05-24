@@ -23,7 +23,7 @@ Você pode usar o componente `AlertTitle` para exibir um título formatado acima
 
 ## Ações
 
-Um alerta pode conter uma ação, como um botão de fechar ou desfazer. É renderizado depois da mensagem na parte final do alerta.
+Um alerta pode conter uma ação, como um botão de fechar ou desfazer. A ação é renderizada depois da mensagem, na parte final do alerta.
 
 Se um `onClose` callback é dado e um atributo `action` é passado, um ícone de fechar é exibido. O atributo `action` pode ser usado para fornecer uma ação alternativa, por exemplo usando um Button ou IconButton.
 
