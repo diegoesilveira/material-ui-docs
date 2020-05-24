@@ -51,4 +51,4 @@ A acessibilidade neste componente conta com:
 
 - O conjunto de links são estruturados usando uma lista ordenada (elemento `<ol>`).
 - Para prevenir que os leitores de tela pronunciem os separadores visuais entre os links, eles são escondidos com `aria-hidden`.
-- Um elemento `nav` rotulado com `aria-label` identifica a estrutura como uma trilha breadcrumb e faz uma marcação na navegação para facilitar a localização.
+- Um elemento `nav` rotulado com `aria-label` identifica a estrutura como uma trilha de navegação estrutural e faz uma marcação na navegação para facilitar a localização.
