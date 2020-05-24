@@ -25,7 +25,7 @@ Você pode usar o componente `AlertTitle` para exibir um título formatado acima
 
 Um alerta pode conter uma ação, como um botão de fechar ou desfazer. A ação é renderizada depois da mensagem, na parte final do alerta.
 
-Se um callback `onClose` é fornecido e a propriedade `action` não é definida, um ícone de fechar será exibido. O atributo `action` pode ser usado para fornecer uma ação alternativa, por exemplo usando um Button ou IconButton.
+Se um callback `onClose` é fornecido e a propriedade `action` não é definida, um ícone de fechar será exibido. A propriedade `action` pode ser usada para fornecer uma ação alternativa, por exemplo, usando um Button ou IconButton.
 
 {{"demo": "pages/components/alert/ActionAlerts.js"}}
 
