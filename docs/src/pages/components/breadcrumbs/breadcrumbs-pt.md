@@ -1,9 +1,9 @@
 ---
-title: Componente React para Breadcrumbs
+title: Componente React para Navegação estrutural
 components: Breadcrumbs, Link, Typography
 ---
 
-# Breadcrumbs
+# Navegação estrutural
 
 <p class="description">Breadcrumbs permitem aos usuários fazer seleções em uma gama de valores.</p>
 
