@@ -34,7 +34,7 @@ Create React App 是一个很棒的学习 React 的项目。 请看一下这些[
   - 优化和可扩展的性能（在 Lighthouse 总共有大约100分）
 - [RMUIF](https://github.com/phoqe/rmuif):
     
-  - Bootstrapped with Create React App, the same tooling works from the get-go
+  - 使用 Create React App 创建，也是可以开箱即用
   - Built on top of Firebase with all their products for the web included
   - Robust routing with React Router including protected routes and error handling
   - 全面的移动支持，带有全屏对话框和选项卡的可轻扫视图
