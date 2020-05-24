@@ -231,9 +231,9 @@ However, in addition to remembering past entered values, the browser might also 
 
 VoiceOver on iOS Safari doesn't support the `aria-owns` attribute very well. You can work around the issue with the `disablePortal` prop.
 
-### ListboxComponent
+### ListBox コンポーネント
 
-If you provide a custom `ListboxComponent` prop, you need to make sure that the intended scroll container has the `role` attribute set to `listbox`. This ensures the correct behavior of the scroll, for example when using the keyboard to navigate.
+`Listbox コンポーネント` のカスタムプロパティを提供する場合、意図するスクロールコンテナの `role` 属性として `listbox` が設定されていることを確認する必要があります。 This ensures the correct behavior of the scroll, for example when using the keyboard to navigate.
 
 ## アクセシビリティ
 
