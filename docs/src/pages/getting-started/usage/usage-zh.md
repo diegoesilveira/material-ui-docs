@@ -34,7 +34,7 @@ ReactDOM.render(<App />, document.querySelector('#app'));
 
 您能够注意到，有一些重要的全局变量，可以改善 Material-UI 的用户体验。
 
-### 响应式元标记
+### 响应式元标记（meta tag）
 
 Material-UI 是先在移动设备上开发的，我们采用了首先为移动设备编写代码，然后根据需要使用 CSS media queries（CSS媒体查询）扩展组件的策略。 如要确保所有设备的正确渲染和触摸缩放，请将响应式可视区域的元标记添加到您的`<head>`元素中。
 
@@ -47,16 +47,16 @@ Material-UI 是先在移动设备上开发的，我们采用了首先为移动�
 
 ### CssBaseline
 
-Material-UI 提供了可选的 [CssBaseline](/components/css-baseline/) 组件。 它修复了浏览器和设备之间的一些不一致性，同时为常见的HTML元素提供了更多不同方式的的重置。
+Material-UI 提供了一个可选的 [CssBaseline](/components/css-baseline/) 组件。 它修复了浏览器和设备之间的一些不一致性，同时为常见的 HTML 元素提供了一点更多不同方式的的重置。
 
 ## 不同版本的文档
 
-本文档始终展示了最新最稳定的 Material-UI 版本。 您可以在一个 [单独的页面](https://material-ui.com/versions/) 上找到旧版本的文档。
+本文档始终展示了最新最稳定的 Material-UI 版本。 您可以在这个 [单独的页面](https://material-ui.com/versions/) 上找到旧版本的文档。
 
 ## 下一步
 
 现在您已经了解了基本设置，现在是时候了解更多关于：
 
-- 如何提供 [Material Design字体和排版](/components/typography/)。
-- 如何利用[主题解决方案](/customization/theming/) 。
+- 如何提供 [Material Design 字体和文字铸排](/components/typography/)。
+- 如何使用[主题解决方案](/customization/theming/) 。
 - 如何 [覆盖](/customization/components/) 组件的呈现和观感。
