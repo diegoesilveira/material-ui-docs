@@ -47,9 +47,9 @@ Definir o atributo ícone como falso removerá o ícone completamente.
 
 ## Variantes
 
-Duas variantes adicionais estão disponíveis – delineadas e preenchidas:
+Duas variantes adicionais estão disponíveis – delineado e preenchido:
 
-### Outlined
+### Delineado
 
 {{"demo": "pages/components/alert/OutlinedAlerts.js"}}
 
@@ -73,6 +73,6 @@ A propriedade `color` irá sobrescrever a cor padrão para a gravidade especific
 
 Quando o componente é exibido de forma dinâmica, o conteúdo é automaticamente anunciado pela maioria dos leitores de tela. No momento, os leitores de tela não informam aos usuários sobre alertas que estão presentes quando a página carrega.
 
-O uso de cores para adicionar significado apenas fornece uma indicação visual, que não vai ser transmitida para usuários de tecnologias assistivas, como leitores de tela. Certifique-se de que a informação indicada pela cor seja clara a partir do próprio próprio conteúdo (por exemplo, o texto visível), ou esteja incluída através de meios alternativos, como um texto oculto adicional.
+O uso de cores para adicionar significado apenas fornece uma indicação visual, que não vai ser transmitida para usuários de tecnologias assistivas, como leitores de tela. Certifique-se de que a informação indicada pela cor seja clara a partir do próprio conteúdo (por exemplo, o texto visível), ou esteja incluída através de meios alternativos, como um texto oculto adicional.
 
-As ações devem ter um índice de tabulação igual a 0 para que possam ser alcançadas por usuários que usam apenas o teclado.
+As ações devem ter um índice de tabulação igual a 0 para que possam ser acessíveis por usuários que usam apenas o teclado.
