@@ -5,9 +5,9 @@ components: Breadcrumbs, Link, Typography
 
 # Navegação estrutural
 
-<p class="description">Breadcrumbs permitem aos usuários fazer seleções em uma gama de valores.</p>
+<p class="description">Navegação estrutural permite aos usuários fazer seleções em uma gama de valores.</p>
 
-## Breadcrumbs simples
+## Navegação estrutural simples
 
 {{"demo": "pages/components/breadcrumbs/SimpleBreadcrumbs.js"}}
 
