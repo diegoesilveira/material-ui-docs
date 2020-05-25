@@ -12,7 +12,7 @@ Existem muitas maneiras de apoiar o Material-UI:
 - **Dê-nos sua opinião**. Conte-nos o que estamos fazendo bem ou onde podemos melhorar. Por favor vote (👍) os problemas que você está mais interessado em ver resolvidos.
 - **Ajude novos usuários**. Você pode responder a perguntas em [StackOverflow](https://stackoverflow.com/questions/tagged/material-ui).
 - **Faça as alterações acontecerem**. 
-  - Edit the documentation. Every page has an "EDIT THIS PAGE" link in the top right.
+  - Edite a documentação. Every page has an "EDIT THIS PAGE" link in the top right.
   - Reporte erros ou recursos faltantes [criando uma issue](https://github.com/mui-org/material-ui/issues/new).
   - Review and comment on existing [pull requests](https://github.com/mui-org/material-ui/pulls) and [issues](https://github.com/mui-org/material-ui/issues).
   - Ajude a [traduzir](https://translate.material-ui.com) a documentação.
