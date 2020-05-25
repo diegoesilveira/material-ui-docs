@@ -1,5 +1,5 @@
 ---
-title: Componente React para Plano de Fundo
+title: Componente React para Pano de Fundo
 components: Backdrop
 ---
 
