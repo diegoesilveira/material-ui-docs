@@ -68,4 +68,4 @@ Para tornar essas transições o mais fácil possível:
 - Recursos descontinuados são anunciados no log de mudanças, quando possível, com avisos colocados em tempo de execução.
 - Quando uma descontinuação é anunciada, um caminho para efetuar a atualização é fornecido.
 - O uso já existente da API durante o período de descontinuação é suportado, então seu código continuará a funcionar durante esse período.
-- Atualizações de subdependências do framework que exigem alterações nos seus aplicativos só são feitas em uma versão principal.
+- Atualizações de subdependências do framework (React) que exigem alterações nos seus aplicativos só são feitas em uma versão principal.
