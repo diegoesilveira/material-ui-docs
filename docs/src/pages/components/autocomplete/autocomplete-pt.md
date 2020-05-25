@@ -12,7 +12,7 @@ Essa ferramenta é útil para configurar os valores de um campo de texto quando 
 1. O valor para a caixa de texto deve ser escolhido a partir de um conjunto pré-definido de valores permitidos, por exemplo, um campo de localização deve conter um nome de localização válido: [combo box](#combo-box).
 2. A caixa de texto pode conter qualquer valor arbitrário, mas é vantajoso porque pode sugerir possíveis valores para o usuário, por exemplo, um campo de pesquisa que pode sugerir pesquisas anteriores ou semelhantes para economizar o tempo do usuário: [solo livre](#free-solo).
 
-A ideia dessa ferramenta era para ser uma versão melhorada das bibliotecas "react-select" e "downshift".
+A idéia dessa ferramenta é ser uma versão melhorada das bibliotecas "react-select" e "downshift".
 
 ## Combo box
 
