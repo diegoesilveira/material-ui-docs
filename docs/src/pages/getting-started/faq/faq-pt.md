@@ -59,7 +59,7 @@ const theme = createMuiTheme({
 
 ## Como posso desativar as transições globalmente?
 
-Material-UI usa o mesmo auxiliar de tema para criar todas as transições. Therefore you can disable all transitions by overriding the helper in your theme:
+Material-UI usa o mesmo auxiliar de tema para criar todas as transições. Portanto, você pode desativar todas as transições substituindo o auxiliar no seu tema:
 
 ```js
 import { createMuiTheme } from '@material-ui/core';
@@ -74,7 +74,7 @@ const theme = createMuiTheme({
 
 Pode ser útil desabilitar transições durante testes visuais ou para melhorar o desempenho em dispositivos de baixo custo.
 
-You can go one step further by disabling all transitions and animations effects:
+Você pode ir além, desabilitando todas as transições e efeitos de animações:
 
 ```js
 import { createMuiTheme } from '@material-ui/core';
