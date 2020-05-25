@@ -136,7 +136,7 @@ Gosta mais de campos de texto menores? Use a propriedade `size`.
 
 {{"demo": "pages/components/autocomplete/Sizes.js"}}
 
-## Autocompletar personalizado
+## Autocompletar customizado
 
 Esta demonstração reproduz o rótulo de selecão do GitHub's:
 
