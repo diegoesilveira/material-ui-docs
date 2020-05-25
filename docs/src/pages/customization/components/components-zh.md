@@ -52,9 +52,9 @@
 <Button classes={{ label: 'my-class-name' }} />
 ```
 
-### Shorthand
+### 简而言之
 
-上面的代码示例可以通过使用**相同的CSS API**作为子组件被固定。 在此示例中， `withStyles()` 高阶分量正在注入由 [`Button` 组件](/api/button/#css)使用的 `classes` 属性。
+上面的代码示例可以通过使用**相同的 CSS API** 作为子组件被固定。 在此示例中， `withStyles()` 高阶组件正在注入一个 `classes` 属性，而此属性在 [`Button` 组件](/api/button/#css)用到 。
 
 ```jsx
 const StyledButton = withStyles({
@@ -75,7 +75,7 @@ const StyledButton = withStyles({
 
 {{"demo": "pages/customization/components/ClassesShorthand.js"}}
 
-### 伪类
+### CSS 伪类（Pseudo-classes）
 
 组件特殊状态，如* hover * ，* focus * ，* disabled *和* selected * ，具有更高的CSS特异性。 [特异性是一种重量](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)这适用于给定的CSS声明。
 
