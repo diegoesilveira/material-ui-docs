@@ -37,7 +37,7 @@ Você pode utilizar um [componente de transição](/components/transitions/) com
 
 ## Ícones
 
-O atributo `icon` permite que você adicione um ícone no início do componente de alerta. Isto substituirá o ícone padrão de acordo com a gravidade especificada.
+A propriedade `icon` permite que você adicione um ícone no início do componente de alerta. Isto substituirá o ícone padrão de acordo com a gravidade especificada.
 
 Você pode alterar a gravidade padrão para mapeamento de ícones com o atributo `iconMapping`. Isto pode ser definido globalmente utilizando [theme customization](/customization/globals/#default-props).
 
