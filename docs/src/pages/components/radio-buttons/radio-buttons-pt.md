@@ -17,6 +17,8 @@ Os botões de opção devem ter a opção mais comumente usada selecionada por p
 
 {{"demo": "pages/components/radio-buttons/RadioButtonsGroup.js"}}
 
+To lay out the buttons horizontally, set the `row` prop: `<RadioGroup row />`.
+
 ## Botões de opção independentes
 
 `Radio` também pode ser usado de forma independente, sem o RadioGroup wrapper.
