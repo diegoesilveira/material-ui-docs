@@ -191,7 +191,7 @@ const styles = {
 
 ## 2。 一次性使用的动态变体
 
-您在上一节中，已经学习了如何覆盖Material-UI组件的样式。 现在，让我们看看我们如何使这些覆盖动态化。 这有五种选择，每种都有它的优点和缺点。
+您在上一节中，已经学习了如何覆盖Material-UI组件的样式。 现在，让我们看看我们如何使这些覆盖动态化。 Here are five alternatives; each has its pros and cons.
 
 ### 动态CSS
 
