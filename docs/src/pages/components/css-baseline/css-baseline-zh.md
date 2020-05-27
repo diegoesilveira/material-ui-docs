@@ -63,8 +63,8 @@ export default function MyApp() {
 - 在 `<html>` 里面不会声明基础的 font-size，但是我们假设是 16px (浏览器的默认设置)。 您可以在[主题文档](/customization/typography/#typography-html-font-size) 页面中了解更多有关更改 `<html>` 默认字体大小的影响 。
 - 在 `theme.typography.body2` 元素上设置 `<body>` 样式。
 - 您可以通过设置 `theme.typography.fontWeightBold` 来控制 `<b>` 和 `<strong>` 元素的 font-weight 属性。
-- Custom font-smoothing is enabled for better display of the Roboto font.
+- 为了更好地显示Roboto字体，启用了自定义字体平滑功能。
 
 ## Customization 个性化
 
-Head to the [global customization](/customization/globals/#global-css) section of the documentation to change the output of these components.
+前往文档中的 [全局自定义](/customization/globals/#global-css) 部分来改变这些组件的输出。
