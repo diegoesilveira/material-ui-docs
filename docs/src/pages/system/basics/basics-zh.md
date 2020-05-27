@@ -1,6 +1,6 @@
 # @material-ui/system
 
-<p class="description">Styled system & style functions for building powerful design systems.</p>
+<p class="description">风格化系统 & 风格化功能，构建强大的设计系统。</p>
 
 ## 开始使用
 
