@@ -47,7 +47,7 @@ components: TextField, Popper, Autocomplete
 
 将 `freeSolo` 设置为true，以便在文本框中输入任意值。
 
-### Search input
+### 搜索输入栏
 
 The prop is designed to cover the primary use case of a **search input** with suggestions, e.g. Google search or react-autowhatever.
 
