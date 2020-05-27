@@ -74,7 +74,7 @@ components: Button, IconButton, ButtonBase
 
 {{"demo": "pages/components/buttons/CustomizedButtons.js", "defaultCodeOpen": false}}
 
-🎨 If you are looking for inspiration, you can check [MUI Treasury's customization examples](https://mui-treasury.com/styles/button).
+🎨如果你是在寻找灵感，你可以查看 [MUI Treasury's customization examples](https://mui-treasury.com/styles/button)。
 
 ## 复杂按钮
 
