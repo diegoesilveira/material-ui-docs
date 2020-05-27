@@ -49,18 +49,18 @@ components: TextField, Popper, Autocomplete
 
 ### 搜索输入栏
 
-The prop is designed to cover the primary use case of a **search input** with suggestions, e.g. Google search or react-autowhatever.
+该 prop 是为了覆盖 **搜索输入栏** 与建议的主要用例，例如 Google搜索 或 react-autowhatever。
 
 {{"demo": "pages/components/autocomplete/FreeSolo.js"}}
 
-### Creatable
+### 可创建的
 
-If you intend to use this mode for a [combo box](#combo-box) like experience (an enhanced version of a select element) we recommend setting:
+如果您打算将此模式用于类似 [组合框](#combo-box) 的体验（选择控件元素的增强版），我们建议设置：
 
-- `selectOnFocus` to helps the user clear the selected value.
-- `clearOnBlur` to helps the user to enter a new value.
-- `handleHomeEndKeys` to move focus inside the popup with the <kbd>Home</kbd> and <kbd>End</kbd> keys.
-- A last option, for instance `Add "YOUR SEARCH"`.
+- `selectOnFocus` 帮助用户清除所选值。
+- `clearOnBlur` 帮助用户输入一个新的值。
+- `handleHomeEndKeys` 使用<kbd>Home</kbd> 和 <kbd>End</kbd> 键在弹出窗口内移动焦点。
+- 最后一个选项，例如 `Add "YOUR SEARCH"`。
 
 {{"demo": "pages/components/autocomplete/FreeSoloCreateOption.js"}}
 
