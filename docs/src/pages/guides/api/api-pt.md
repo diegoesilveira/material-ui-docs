@@ -95,7 +95,7 @@ Existem duas opções para projetar a API para as variações de um componente: 
     };
     ```
     
-    This API enables the shorthand notation: `<Button>`, `<Button contained />`, `<Button fab />`.
+    Esta API ativou a notação abreviada: `<Button>`, `<Button contained />`, `<Button fab />`.
 
 - Opção 2 *enum*:
     
