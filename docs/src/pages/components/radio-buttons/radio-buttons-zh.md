@@ -35,13 +35,13 @@ To lay out the buttons horizontally, set the `row` prop: `<RadioGroup row />`.
 
 一般来说，单选按钮应具有一个被默认选中的值。 如果不是这种情况，则在提交表单时如果未选择任何值，则可能会显示错误：
 
-{{"demo": "pages/components/radio-buttons/ErrorRadios.js"}} 
+{{"demo": "pages/components/radio-buttons/ErrorRadios.js"}}
 
 ## Customized radios 自定义单选框
 
 以下是自定义组件的一个示例。 您可以在[重写文档页](/customization/components/)中了解有关此内容的更多信息。
 
-{{"demo": "pages/components/radio-buttons/CustomizedRadios.js"}} 
+{{"demo": "pages/components/radio-buttons/CustomizedRadios.js"}}
 
 ## 什么时候使用
 
