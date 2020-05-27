@@ -25,7 +25,7 @@ components: Button, ButtonGroup
 
 {{"demo": "pages/components/button-group/SplitButton.js"}}
 
-## 禁用 elevation
+## Disabled elevation 禁用 elevation
 
 你也可以使用属性 `disableElevation` 属性来消除实心按钮的立体效果。
 
