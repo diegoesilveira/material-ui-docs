@@ -191,7 +191,7 @@ Você não precisa se preocupar com a especificidade do CSS, pois o estilo em li
 
 ## 2. Variação dinâmica para uma situação única
 
-Você aprendeu como sobrescrever o estilo dos componentes do Material-UI nas seções anteriores. Agora, vamos ver como podemos tornar essas sobrescritas dinâmicas. Here are five alternatives; each has its pros and cons.
+Você aprendeu como sobrescrever o estilo dos componentes do Material-UI nas seções anteriores. Agora, vamos ver como podemos tornar essas sobrescritas dinâmicas. Aqui estão cinco alternativas; Cada um tem os seus prós e contras.
 
 ### CSS Dinâmico
 
