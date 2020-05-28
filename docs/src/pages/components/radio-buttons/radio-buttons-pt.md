@@ -9,7 +9,7 @@ components: Radio, RadioGroup, FormControl, FormLabel, FormControlLabel
 
 Use [botões de opção](https://material.io/design/components/selection-controls.html#radio-buttons) quando um usuário precisar ver todas as opções disponíveis. Se várias opções podem ser suprimidas da visualização, considere usar um menu suspenso (dropdown), pois ele utiliza menos espaço.
 
-Os botões de opção devem ter a opção mais comumente usada selecionada por padrão.
+Os botões de opção devem ter a opção comum e mais usada selecionada por padrão.
 
 ## RadioGroup
 
@@ -25,9 +25,9 @@ O componente `Radio` também pode ser usado de forma independente, sem o wrapper
 
 {{"demo": "pages/components/radio-buttons/RadioButtons.js"}}
 
-## Posicionamento do Rótulo
+## Posicionamento do rótulo
 
-Você pode alterar o posicionamento do rótulo com o componente `FormControlLabel` e a propriedade `labelPlacement`:
+Você pode alterar o posicionamento do rótulo com o componente `FormControlLabel` na propriedade `labelPlacement`:
 
 {{"demo": "pages/components/radio-buttons/FormControlLabelPlacement.js"}}
 
