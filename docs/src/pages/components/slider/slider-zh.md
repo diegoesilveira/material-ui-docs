@@ -77,7 +77,7 @@ Track 显示可供用户选择的范围。
 
 ### 移除 track
 
-track 可以通过设置 `track={false}` 来禁用。
+可以通过设置 `track={false}` 来禁用。
 
 {{"demo": "pages/components/slider/TrackFalseSlider.js"}}
 
@@ -100,4 +100,4 @@ track 可以通过设置 `track={false}` 来禁用。
 该组件处理了大部分必要的工作，使之应用可访问性。 但是，你需要确保：
 
 - 每个箭头都有一个用户友好的标签（`aria-label`、`aria-labelledby` 或 `getAriaLabel` prop）。
-- 每一个箭头上都有一个方便用户阅读的文字，为其当前值。 除非数值的含义显而易见。 你可以通过`getAriaValueText` 或者 `aria-valuetext` 更改提示气泡的名称。
+- 每一个箭头的当前值都有一个方便用户阅读的文字。 除非数值的含义显而易见。 你可以通过`getAriaValueText` 或者 `aria-valuetext` 更改提示气泡的名称。
