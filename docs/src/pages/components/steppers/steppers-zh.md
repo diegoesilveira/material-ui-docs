@@ -24,7 +24,7 @@ components: MobileStepper, Step, StepButton, StepConnector, StepContent, StepIco
 
 {{"demo": "pages/components/steppers/HorizontalLinearStepper.js", "bg": true}}
 
-### Linear - Alternative Label
+### 线性步骤条 - 备选标签
 
 您可以将标签放置在节点图标之下。请在 `Stepper` 组件中设置 `alternativeLabel` 这一属性。
 
