@@ -47,7 +47,7 @@ components: Popper
 
 ## 占位的参考对象
 
-`anchorEl` 属性可以是对假 DOM 元素的引用。 您只需要创建一个类似于 [`ReferenceObject`](https://github.com/FezVrasta/popper.js/blob/0642ce0ddeffe3c7c033a412d4d60ce7ec8193c3/packages/popper/index.d.ts#L118-L123) 的对象。
+`anchorEl` 属性可以是对占位 DOM 元素的引用。 您只需要创建一个类似于 [`ReferenceObject`](https://github.com/FezVrasta/popper.js/blob/0642ce0ddeffe3c7c033a412d4d60ce7ec8193c3/packages/popper/index.d.ts#L118-L123) 的对象。
 
 选中部分文本以看到气泡卡片：
 
