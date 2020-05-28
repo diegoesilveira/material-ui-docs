@@ -49,7 +49,7 @@ components: TextField, Popper, Autocomplete
 
 ### 搜索输入栏
 
-该 prop 是为了覆盖 **搜索输入栏** 与建议的主要用例，例如 Google搜索 或 react-autowhatever。
+该 prop 是皆在涵盖带有搜索建议的 **输入栏** 的主要用例，例如 Google 搜索 或 react-autowhatever。
 
 {{"demo": "pages/components/autocomplete/FreeSolo.js"}}
 
