@@ -57,7 +57,7 @@ components: Slider
 
 ## 带输入的滑块
 
-In this example an input allows a discrete value to be set.
+在这个例子中，输入允许设置一个离散值。
 
 {{"demo": "pages/components/slider/InputSlider.js"}}
 
@@ -89,7 +89,7 @@ track 可以通过设置 `track={false}` 来禁用。
 
 ## 非线性缩放
 
-You can use the `scale` prop to represent the `value` on a different scale. 例如，下面的例子中，*x* 的值表示 *10^x*。
+你可以使用 `scale` prop 来表示不同比例的 `值`。 例如，下面的例子中，*x* 的值表示 *10^x*。
 
 {{"demo": "pages/components/slider/NonLinearSlider.js"}}
 
@@ -97,7 +97,7 @@ You can use the `scale` prop to represent the `value` on a different scale. 例�
 
 (WAI-ARIA: https://www.w3.org/TR/wai-aria-practices/#slider)
 
-The component handles most of the work necessary to make it accessible. 但是，你需要确保：
+该组件处理了大部分必要的工作，使之应用可访问性。 但是，你需要确保：
 
 - Each thumb has a user-friendly label (`aria-label`, `aria-labelledby` or `getAriaLabel` prop).
 - Each thumb has a user-friendly text for its current value. 除非数值的含义显而易见。 你可以通过`getAriaValueText` 或者 `aria-valuetext` 更改提示气泡的名称。
