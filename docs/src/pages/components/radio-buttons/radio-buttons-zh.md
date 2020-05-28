@@ -17,7 +17,7 @@ components: Radio, RadioGroup, FormControl, FormLabel, FormControlLabel
 
 {{"demo": "pages/components/radio-buttons/RadioButtonsGroup.js"}}
 
-To lay out the buttons horizontally, set the `row` prop: `<RadioGroup row />`.
+要横向布置按钮，请设置 `row`prop: `<RadioGroup row />`.
 
 ## Standalone radio buttons 独立的单选框按钮 
 
