@@ -1,5 +1,5 @@
 ---
-title: Componente React para Botões de Opção
+title: Componente React para Botões de opção
 components: Radio, RadioGroup, FormControl, FormLabel, FormControlLabel
 ---
 
@@ -45,7 +45,7 @@ Aqui está um exemplo de customização do componente. Você pode aprender mais 
 
 ## Quando usar
 
-- [Caixas de Seleção vs. Botões de Opção](https://www.nngroup.com/articles/checkboxes-vs-radio-buttons/)
+- [Caixas de seleção vs. Botões de opção](https://www.nngroup.com/articles/checkboxes-vs-radio-buttons/)
 
 ## Acessibilidade
 
