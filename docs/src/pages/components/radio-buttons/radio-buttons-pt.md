@@ -13,15 +13,15 @@ Os botões de opção devem ter a opção mais comumente usada selecionada por p
 
 ## RadioGroup
 
-`RadioGroup` é um wrapper útil usado para agrupar componentes `Radio` fornecendo uma API mais fácil, e adequá a acessibilidade pelo teclado para o grupo.
+O componente `RadioGroup` é um wrapper utilizado para agrupar componentes `Radio`, fornece uma API mais simples e adequada para a acessibilidade por teclado.
 
 {{"demo": "pages/components/radio-buttons/RadioButtonsGroup.js"}}
 
-To lay out the buttons horizontally, set the `row` prop: `<RadioGroup row />`.
+Para demonstrar os botões horizontalmente, defina a propriedade `row`: `<RadioGroup row />`.
 
 ## Botões de opção independentes
 
-`Radio` também pode ser usado de forma independente, sem o RadioGroup wrapper.
+O componente `Radio` também pode ser usado de forma independente, sem o wrapper RadioGroup.
 
 {{"demo": "pages/components/radio-buttons/RadioButtons.js"}}
 
