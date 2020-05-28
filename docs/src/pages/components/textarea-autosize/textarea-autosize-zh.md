@@ -3,7 +3,7 @@ title: React Textarea Autosize 自适应文本框组件
 components: TextareaAutosize
 ---
 
-# Textarea 自动调整大小
+# Textarea Autosize 自适应文本框
 
 <p class="description">一个用于 React 的 textarea 组件，它随着内容的增长而增长。</p>
 
