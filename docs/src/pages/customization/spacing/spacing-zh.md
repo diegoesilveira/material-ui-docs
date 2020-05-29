@@ -46,14 +46,14 @@ theme.spacing(2); // = 8
 
 ## 多个参数
 
-` theme.spacing() ` 最多接受4个参数。 You can use the arguments to reduce the boilerplate.
+` theme.spacing() ` 最多接受4个参数。 你可以使用参数来减少样板代码(boilerplate)。
 
 ```diff
 -padding: `${theme.spacing(1)}px ${theme.spacing(2)}px`, // '8px 16px'
 +padding: theme.spacing(1, 2), // '8px 16px'
 ```
 
-Mixing string values is also supported:
+它也支持混合字符串值：
 
 ```js
 margin: theme.spacing(1, 'auto'), // '8px auto'
