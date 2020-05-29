@@ -187,11 +187,11 @@ const styles = {
 
 {{"demo": "pages/customization/components/InlineStyle.js"}}
 
-[我什么时候应该使用内联式vs类？](/getting-started/faq/#when-should-i-use-inline-style-vs-css)
+[和 classes 比起来，我什么时候应该使用内嵌样式？](/getting-started/faq/#when-should-i-use-inline-style-vs-css)
 
 ## 2。 一次性使用的动态变体
 
-您在上一节中，已经学习了如何覆盖Material-UI组件的样式。 现在，让我们看看我们如何使这些覆盖动态化。 Here are five alternatives; each has its pros and cons.
+您在上一节中，已经学习了如何覆盖Material-UI组件的样式。 现在，让我们看看我们如何使这些覆盖动态化。 以下是五种选择，各有利弊。
 
 ### 动态CSS
 
@@ -209,7 +209,7 @@ const styles = {
 
 {{"demo": "pages/customization/components/DynamicInlineStyle.js"}}
 
-### Theme nesting
+### 覆盖主题
 
 {{"demo": "pages/customization/components/DynamicThemeNesting.js"}}
 
